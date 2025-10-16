@@ -1,3 +1,7 @@
 node_modules/
+<<<<<<< HEAD
 server/node_modules/
 .env
+=======
+node_modules/
+>>>>>>> 12a5202a9f7deb02b88f1870a764f239de298e65
